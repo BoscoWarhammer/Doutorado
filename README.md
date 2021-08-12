@@ -9,3 +9,4 @@ Aqui estão os códigos utilizados no doutorado.
 * O arquivo grão.hpp contém as informações dos objetos utilizados.
 * O arquivo grão.cpp contém os cálculos dos objetos utilizados.
 * O arquivo visual_grains.cpp contém a visualização em OpenGL das configurações do sistema.
+* O arquivo main.c contém a todo o código que simula grãos e fluido e seus acoplamentos.
